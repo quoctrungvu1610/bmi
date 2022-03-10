@@ -1,6 +1,7 @@
 import 'package:bmi/constants.dart';
 import 'package:flutter/material.dart';
-import 'reuseablecard.dart';
+import '../reuseablecard.dart';
+
 class Results extends StatelessWidget {
   const Results({Key? key}) : super(key: key);
 
@@ -40,3 +41,4 @@ class Results extends StatelessWidget {
     );
   }
 }
+//da chinh sua
